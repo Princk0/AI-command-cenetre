@@ -55,7 +55,7 @@ ai-command-center/
 ```
 
 ### Prerequisites
-- Raspberry Pi (any model) with Raspbian OS and SSH enabled
+- Computer system (Raspberry Pi) with Raspbian OS and SSH enabled
 - Python 3.11+ on both Pi and laptop
 - Node.js 18+ (for frontend)
 - AI API key — get one at https://console.anthropic.com
