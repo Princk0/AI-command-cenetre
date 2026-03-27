@@ -1,4 +1,4 @@
-# AI-command-cenetre
+# AI-command-center
 
 An intelligent IoT command center that turns a Raspberry Pi into an AI-managed edge node. A Claude-powered agent orchestrates device monitoring, process management, and system control through natural language — demonstrating MCP-style tool-use architecture on real hardware.
 
